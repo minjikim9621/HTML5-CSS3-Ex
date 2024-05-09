@@ -1,0 +1,4 @@
+1.GitHub 총복습
+  clone, Add, commit, push
+  코드뭉치 버리기, 코드뭉치 스테이지 올리기
+2.Pull,Branch 브랜치 개념과 사용 방법
